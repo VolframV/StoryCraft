@@ -121,8 +121,8 @@
             <select id="inputState" class="form-control" name="story_genre" class="form-control">
                 <option selected value="ChapterChoice1">Choice 1</option>
                 <option value="ChapterChoice2">Choice 2</option>
-                <option value="ChapterChoice3">Choice 3</option
-                <option value="ChapterChoice4">Choice 4</option
+                <option value="ChapterChoice3">Choice 3</option>
+                <option value="ChapterChoice4">Choice 4</option>
         </div>
 
     </div>
