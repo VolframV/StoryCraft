@@ -122,7 +122,7 @@
             if($chapterChoice3!=null){
                 echo '<option value="ChapterChoice3">', $chapterChoice3, '</option>';
             }
-            if($chapterChoice3!=null){
+            if($chapterChoice4!=null){
                 echo '<option value="ChapterChoice4">', $chapterChoice4, '</option>';
             }
            echo '<div class="form-group col-md-2">
